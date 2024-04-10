@@ -1,0 +1,9 @@
+@font-face {
+  font-family: NinjaHeader;
+  src: url("NinjaHeader-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: NinjaRegular;
+  src: url("NinjaV4-Regular.otf") format("opentype");
+}

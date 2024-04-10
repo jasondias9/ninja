@@ -1,0 +1,20 @@
+@import url('../fonts/Ninja.css');
+
+html {
+    font-size: 16px;
+}
+
+.ninja-text-header { 
+    font-family: NinjaHeader, Arial, Helvetica, sans-serif;
+}
+
+.cute-tilt {
+    transform: rotate(-6.94deg);
+    width: max-content;
+}
+
+.cute-tilt.indent {
+    margin-left: 54px;
+}
+
+
